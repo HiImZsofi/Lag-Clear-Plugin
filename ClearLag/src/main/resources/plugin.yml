@@ -1,0 +1,11 @@
+name: Clearlag
+version: ${project.version}
+main: me.sophie.clearlag.Clearlag
+api-version: 1.16
+authors: [ Sophie ]
+description: Helps to get rid of lag.
+commands:
+  clear:
+    description: Clears all dropped items
+    permission: Server operator
+    usage: /<command>

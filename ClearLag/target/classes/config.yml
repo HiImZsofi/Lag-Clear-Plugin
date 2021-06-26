@@ -1,0 +1,5 @@
+BeforeMsg: '&cAll dropped items will be deleted in 1 minute!'
+DoneMessage: '&citems were deleted.'
+InputError: '&nPlease use: /clear items'
+
+ForceClearPermission: 'Clearlag.Clearcommand'
